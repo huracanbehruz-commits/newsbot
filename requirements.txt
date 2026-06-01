@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+telethon==1.36.0
+feedparser==6.0.11
+beautifulsoup4==4.12.3
+aiohttp==3.10.5
